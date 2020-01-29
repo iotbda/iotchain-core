@@ -1,0 +1,3 @@
+#include "main/IOTChainCoreVersion.h"
+
+const std::string IOTCHAIN_CORE_VERSION = "%%VERSION%%";
